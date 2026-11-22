@@ -1,46 +1,98 @@
 <p align="center">｡･ﾟ･｡+☆+｡･ﾟ･｡+☆+｡･ﾟ･｡</p>
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="./assets/hello.gif" width="205" alt="A little animated bear" />
-    </td>
-    <td width="66%" valign="middle">
-      <h2>Zyn - Second account</h2>
-      <blockquote>Here you'll find Zyn's side projects</blockquote>
-      <p>˚₊‧꒰ა☆໒꒱‧₊˚ A small corner for code, experiments, and ideas.</p>
-    </td>
-  </tr>
-</table>
+<img src="https://files.catbox.moe/9rhmgb.gif" width="110" align="left" alt="Zyn's animated GIF" />
 
-### about me (ﾉ´ヮ´)ﾉ*:･ﾟ✧
+### Zyn - Second account
 
-Hi, I'm **Zyn**! I enjoy building things, learning new technologies, and turning random ideas into projects.
+> Here you'll find Zyn's side projects
 
-**my experience** · *Write about your programming experience here. Which languages, tools, or projects have you worked on?*
+<sub>˚₊‧꒰ა☆໒꒱‧₊˚ A little space for ideas, experiments and everything in between.</sub>
 
-**currently working on** · *Add your current side projects or what you're learning.*
+<br clear="left" />
 
-### little things i like ˚₊‧꒰ა☆໒꒱‧₊˚
+---
 
-`coding` · `LÖVE2D` · `game development` · `minimal design` · `cute stickers`
+### 01 / about me (ﾉ´ヮ´)ﾉ*:･ﾟ✧
+
+<img src="./assets/bear.webp" align="right" width="82" alt="Little bear sticker" />
+
+Hi! I'm **Zyn**, a developer from Peru who enjoys making things just to see if they can work. I spend most of my time exploring game development, web interfaces and creative coding.
+
+I like projects that are **simple to use, thoughtfully designed and fun to build**. This is my second account, where smaller ideas get their own space.
+
+<br clear="right" />
+
+### 02 / my experience
+
+<img src="./assets/computer.webp" align="right" width="84" alt="Computer and cartoon sticker" />
+
+I learn by building, testing and improving. My experience is mostly with **LÖVE2D projects, game engines, web apps and command-line tools**.
+
+- **Game development:** gameplay systems, mods and experiments with Lua.
+- **Web development:** interfaces and backends with JavaScript, TypeScript and Node.js.
+- **Other experiments:** Python tools and little automation projects.
+
+*Currently exploring:* **[write what you're learning here]**.
+
+<br clear="right" />
+
+### 03 / languages & tools
+
+<img src="./assets/genius.webp" align="right" width="88" alt="Tiny genius sticker" />
+
+**Languages**  
+`Lua` · `JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS`
+
+**Things I use**  
+`LÖVE2D` · `Node.js` · `Git` · `Termux` · `Vercel`
+
+**Want to learn next**  
+*[Add a language, framework or idea here.]*
+
+<br clear="right" />
+
+### 04 / side projects, little experiments
+
+<img src="./assets/funny-math.webp" align="right" width="104" alt="2 plus 2 equals 67 meme" />
+
+Not every idea needs to be a big project. Some are just interesting enough to try. (⁠~⁠￣⁠³⁠￣⁠)⁠~
+
+- **Games & mechanics** · small prototypes and rhythm-game ideas.
+- **Developer tools** · useful scripts, CLIs and experiments.
+- **UI concepts** · clean layouts, animations and tiny details.
+
+*Featured project:* **[project name]** · [one-sentence description].
+
+<br clear="right" />
+
+### 05 / things i like ♡
+
+<img src="./assets/rose.webp" align="right" width="82" alt="Rose sticker" />
+
+`games` · `creative coding` · `minimal design` · `music` · `animations`
+
+I have a soft spot for interfaces that feel cozy without being cluttered, and for small visual details that give a project a little personality.
+
+*Other favorites:* **[add your own hobbies or favorites here]**.
+
+<br clear="right" />
+
+### 06 / life lately
+
+<img src="./assets/sweat.webp" align="right" width="78" alt="Sweat-drop reaction sticker" />
+
+A bit of coding, a bit of learning, and probably one more bug to fix. I'm always finding new things to explore, even outside programming.
+
+*Currently:* **[a small life update, what inspires you, or something you're excited about]**.
+
+<br clear="right" />
+
+---
 
 <p align="center">
-  <img src="./assets/crying-bunny.jpg" width="92" alt="Crying bunny sticker" />
-  &nbsp;
-  <img src="./assets/little-genius.jpg" width="92" alt="Little genius sticker" />
-  &nbsp;
-  <img src="./assets/rose.jpg" width="92" alt="Rose" />
+  <img src="./assets/crying-bunny.webp" width="67" alt="Crying bunny sticker" />
+  <br />
+  <sub>thanks for stopping by ♡ · see you around!</sub>
+  <br />
+  <sub>｡･ﾟ･｡+☆+｡･ﾟ･｡+☆+｡･ﾟ･｡</sub>
 </p>
-
-<details>
-  <summary>more little stickers ♡</summary>
-  <p align="center">
-    <img src="./assets/funny-math.jpg" width="112" alt="Funny math meme" />
-    <img src="./assets/blushing-bear.jpg" width="112" alt="Blushing bear" />
-    <img src="./assets/sweat-drop.jpg" width="112" alt="Sweat drop reaction" />
-    <img src="./assets/computer.jpg" width="112" alt="Computer sticker" />
-  </p>
-</details>
-
-<p align="center">(⁠~⁠￣⁠³⁠￣⁠)⁠~</p>
