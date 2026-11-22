@@ -30,7 +30,7 @@ I learn by building, testing and improving. My experience is mostly with **LÖVE
 - **Web development:** interfaces and backends with JavaScript, TypeScript and Node.js.
 - **Other experiments:** Python tools and little automation projects.
 
-*Currently exploring:* **[write what you're learning here]**.
+*Currently exploring:* **Python**.
 
 <br clear="right" />
 
@@ -45,7 +45,7 @@ I learn by building, testing and improving. My experience is mostly with **LÖVE
 `LÖVE2D` · `Node.js` · `Git` · `Termux` · `Vercel`
 
 **Want to learn next**  
-*[Add a language, framework or idea here.]*
+`Rust` and `C++`
 
 <br clear="right" />
 
@@ -59,7 +59,7 @@ Not every idea needs to be a big project. Some are just interesting enough to tr
 - **Developer tools** · useful scripts, CLIs and experiments.
 - **UI concepts** · clean layouts, animations and tiny details.
 
-*Featured project:* **[project name]** · [one-sentence description].
+*Featured project:* **Light Engine** · It's on my main account. It's a custom engine from Friday Night Funkin'. Maybe one of my future projects will beat this one.
 
 <br clear="right" />
 
@@ -71,7 +71,7 @@ Not every idea needs to be a big project. Some are just interesting enough to tr
 
 I have a soft spot for interfaces that feel cozy without being cluttered, and for small visual details that give a project a little personality.
 
-*Other favorites:* **[add your own hobbies or favorites here]**.
+*Other favorites:* **Russian music, anime, K-dramas, and I ran out of ideas**...
 
 <br clear="right" />
 
@@ -81,7 +81,7 @@ I have a soft spot for interfaces that feel cozy without being cluttered, and fo
 
 A bit of coding, a bit of learning, and probably one more bug to fix. I'm always finding new things to explore, even outside programming.
 
-*Currently:* **[a small life update, what inspires you, or something you're excited about]**.
+*Currently:* **With some help from AI I can accomplish these projects. My life is somewhat complicated financially and I'm only a first-year high school student**.
 
 <br clear="right" />
 
