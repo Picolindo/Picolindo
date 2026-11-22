@@ -1,12 +1,10 @@
 <p align="center">｡･ﾟ･｡+☆+｡･ﾟ･｡+☆+｡･ﾟ･｡</p>
 
-<img src="https://files.catbox.moe/9rhmgb.gif" width="110" align="left" alt="Zyn's animated GIF" />
-
 ### Zyn - Second account
 
 > Here you'll find Zyn's side projects
 
-<sub>˚₊‧꒰ა☆໒꒱‧₊˚ A little space for ideas, experiments and everything in between.</sub>
+<sub>**˚₊‧꒰ა☆໒꒱‧₊˚** A little space for ideas, experiments and everything in between.</sub>
 
 <br clear="left" />
 
